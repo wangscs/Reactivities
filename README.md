@@ -4,6 +4,7 @@
 React
 Vite
 TypeScript + Speedy Web Compiler (SWC)
+Axios - Promise based HTTP client for browser and node.js. Used to make HttpRequests and intercept requests/responses
 
 ## Back End Tech:
 .NET 7 SDK
